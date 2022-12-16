@@ -2,7 +2,8 @@
 'use strict';
 
 // NOTE: ideally we'd rename the anchor program to redrop
-const PROGRAM_NAME = 'merkle_distributor';
+// const PROGRAM_NAME = 'merkle_distributor';
+const PROGRAM_NAME = 'redrop';
 const PROGRAM_ID = 'rdrppvBxnXBwBXVLTsoGuBZiZfhJu3JtGLUfMaJpgjQ';
 
 const path = require('path');
