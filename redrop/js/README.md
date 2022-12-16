@@ -1,6 +1,6 @@
 # mpl-redrop
 
-This package contains the redrop contract SDK code. Derived and adapted from Metaplex foundation gumdrop
+This package contains the redrop contract SDK code. Derived and adapted from Metaplex foundation redrop
 
 ## Developing
 
